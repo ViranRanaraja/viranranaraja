@@ -25,7 +25,8 @@
 <a href="https://www.linkedin.com/in/viran-ranaraja-6064a623a/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="viran ranaraja" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -56,7 +57,7 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
 </table>
-
+</p>
 <p align="center">
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
