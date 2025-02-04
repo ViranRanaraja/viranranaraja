@@ -26,8 +26,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-<table>
+
+<table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=dotnet,express,flask,fastapi,go,java,nodejs,npm,php,py"/></td>
@@ -57,7 +57,6 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
 </table>
-</p>
 <p align="center">
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
