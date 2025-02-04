@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/viran-ranaraja-6064a623a/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="viran ranaraja" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
